@@ -1,5 +1,6 @@
-// eslint-disable-next-line no-use-before-define
-import React, {component} from 'react';
+// eslint-disable no-use-before-define
+// eslint-disable-next-line no-unused-vars
+import React, { component } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
