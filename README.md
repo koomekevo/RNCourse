@@ -9,6 +9,9 @@ RNCourse is a Android and iOS course app built with React Native.
 Run `git clone https://github.com/koomekevo/RNCourse.git` into your local computer
 
 Run `cd RNCourse` to change to project folder
+
+Run `expo start` to start the server
+
 ## Authors
 
 👤 **Kevin Koome**
